@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "dependencies": {
+    "fg-loadcss": "^1.2.1"
+  },
+  "devDependencies": {
+    "brunch": "github:brunch/brunch#110e9a9d9336f0e518e8c75eea8f967cfb8714b5",
+    "javascript-brunch": "^2.0.0"
+  }
+}
